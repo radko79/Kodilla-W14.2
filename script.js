@@ -29,6 +29,24 @@ var movies = [
     title: 'Król Lew',
     desc: 'Hakuna Matata',
     pic: 'https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FzeoxV7uCUCqt2%2Fgiphy.gif&f=1'
+  },
+  {
+    id: 3,
+    title: 'La La Land',
+    desc: 'City of stars',
+    pic: 'https://pbs.twimg.com/profile_images/3078065739/4b0d68b36007cd8d925f505db894779d.png'
+  },
+  {
+    id: 4,
+    title: 'The Butler',
+    desc: 'Inspired by a true story',
+    pic: 'https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fthebutlerdiditservice.yolasite.com%2Fresources%2Fbutler_clipart.jpg&f=1'
+  },
+  {
+    id: 5,
+    title: 'Interstellar',
+    desc: 'The Science behind',
+    pic: 'http://www.puffgames.com/images/interstellar-the-flash-game.png'
   }
 ];
 
